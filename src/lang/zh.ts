@@ -1,5 +1,12 @@
 export default {
   route: {
+    basic: '基础数据',
+    projectList: '我的项目',
+    supplyList: '我的供应商',
+
+    /**
+     * new
+     */
     dashboard: '首页',
     documentation: '文档',
     guide: '引导页',
